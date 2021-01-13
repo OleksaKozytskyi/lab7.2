@@ -1,0 +1,3 @@
+/Users/askello_ua/Desktop/LAB7.2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/askello_ua/Desktop/LAB7.2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/askello_ua/Desktop/LAB7.2/cmake-build-debug/CMakeFiles/LAB7_2.dir
